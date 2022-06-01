@@ -10,464 +10,578 @@
     "GayWave.gay": "gay",
     "GayWave.sadGay": "sadGay"
   },
-  "tracks": {
-    "basta-sansara-right-version-by-fuggot.mp3": {
+  "tracks": [
+    {
+      "filename": "basta-sansara-right-version-by-fuggot.mp3",
       "name": "Баста - сансара",
       "wave": "GayWave.sadGay"
     },
-    "dora-kapli-right-version-gachi-remix.mp3": {
+    {
+      "filename": "dora-kapli-right-version-gachi-remix.mp3",
       "name": "Дора - капли",
       "wave": "GayWave.sadGay"
     },
-    "dora-mladsaya-sestra-gachi-remix-right-version.mp3": {
+    {
+      "filename": "dora-mladsaya-sestra-gachi-remix-right-version.mp3",
       "name": "Дора - младшая сестра",
       "wave": "GayWave.sadGay"
     },
-    "dora-osen-pyanaya-right-version-gachi-remix.mp3": {
+    {
+      "filename": "dora-osen-pyanaya-right-version-gachi-remix.mp3",
       "name": "Дора - осень пьяная",
       "wave": "GayWave.sadGay"
     },
-    "dora-poslyu-ego-naright-version-gachi-remix.mp3": {
+    {
+      "filename": "dora-poslyu-ego-naright-version-gachi-remix.mp3",
       "name": "Дора - пошлю его на...",
       "wave": "GayWave.sadGay"
     },
-    "dora-vtyurilasright-version-gachi-remix.mp3": {
+    {
+      "filename": "dora-vtyurilasright-version-gachi-remix.mp3",
       "name": "Дора - втюрилась",
       "wave": "GayWave.sadGay"
     },
-    "dora-zadolbal-menya-ignorit-right-version-gachi-remix.mp3": {
+    {
+      "filename": "dora-zadolbal-menya-ignorit-right-version-gachi-remix.mp3",
       "name": "Дора - задолбал меня игнорить",
       "wave": "GayWave.sadGay"
     },
-    "femlove-fotografiruyu-zakatright-version-gachi-remix.mp3": {
+    {
+      "filename": "femlove-fotografiruyu-zakatright-version-gachi-remix.mp3",
       "name": "Fem.Love - фотографирую закат",
       "wave": "GayWave.sadGay"
     },
-    "hensy-pobolelo-i-proslo-gachi-remix-right-version.mp3": {
+    {
+      "filename": "hensy-pobolelo-i-proslo-gachi-remix-right-version.mp3",
       "name": "Hensy - поболело и прошло",
       "wave": "GayWave.sadGay"
     },
-    "homie-bezumno-mozno-byt-pervym-gachi-remix-right-version.mp3": {
+    {
+      "filename": "homie-bezumno-mozno-byt-pervym-gachi-remix-right-version.mp3",
       "name": "Homie - безумно можно быть первым",
       "wave": "GayWave.sadGay"
     },
-    "karat-a-skolko-v-serdce-ran-right-version-g-man.mp3": {
+    {
+      "filename": "karat-a-skolko-v-serdce-ran-right-version-g-man.mp3",
       "name": "Карат - а сколько в сердце ран",
       "wave": "GayWave.sadGay"
     },
-    "kotenok-v-kolodce-gachi-remix.mp3": {
+    {
+      "filename": "kotenok-v-kolodce-gachi-remix.mp3",
       "name": "Кристина Прилепина - котенок",
       "wave": "GayWave.sadGay"
     },
-    "lizer-packa-sigaret-right-version-gachi-remix.mp3": {
+    {
+      "filename": "lizer-packa-sigaret-right-version-gachi-remix.mp3",
       "name": "Lizer - пачка сигарет",
       "wave": "GayWave.sadGay"
     },
-    "lyube-davai-zaright-version-gachiremix.mp3": {
+    {
+      "filename": "lyube-davai-zaright-version-gachiremix.mp3",
       "name": "ЛЮБЭ - давай за",
       "wave": "GayWave.sadGay"
     },
-    "maksim-moi-rai-right-versiongachi-remix-remastered.mp3": {
+    {
+      "filename": "maksim-moi-rai-right-versiongachi-remix-remastered.mp3",
       "name": "Максим - мой рай",
       "wave": "GayWave.sadGay"
     },
-    "maksim-naucus-letat-right-version-gachi-remix.mp3": {
+    {
+      "filename": "maksim-naucus-letat-right-version-gachi-remix.mp3",
       "name": "Максим - научусь летать",
       "wave": "GayWave.sadGay"
     },
-    "maksim-son-right-versiongachi-remix.mp3": {
+    {
+      "filename": "maksim-son-right-versiongachi-remix.mp3",
       "name": "Максим - сон",
       "wave": "GayWave.sadGay"
     },
-    "maksim-trudnyi-vozrast-right-version-fallfrog-gachi-remix.mp3": {
+    {
+      "filename": "maksim-trudnyi-vozrast-right-version-fallfrog-gachi-remix.mp3",
       "name": "Максим - трудный возраст",
       "wave": "GayWave.sadGay"
     },
-    "maksim-vetrom-stat-gachi-remix.mp3": {
+    {
+      "filename": "maksim-vetrom-stat-gachi-remix.mp3",
       "name": "Максим - ветром стать",
       "wave": "GayWave.sadGay"
     },
-    "maks-korz-maloletka-right-version-russian-slaves-remix.mp3": {
+    {
+      "filename": "maks-korz-maloletka-right-version-russian-slaves-remix.mp3",
       "name": "Макс Корж - малолетка",
       "wave": "GayWave.sadGay"
     },
-    "maks-korz-motylekright-version-gachi-remix.mp3": {
+    {
+      "filename": "maks-korz-motylekright-version-gachi-remix.mp3",
       "name": "Макс Корж - мотылек",
       "wave": "GayWave.sadGay"
     },
-    "morgenshtern-selyavi-right-versiongachi-remix.mp3": {
+    {
+      "filename": "morgenshtern-selyavi-right-versiongachi-remix.mp3",
       "name": "Morgenshtern - селяви",
       "wave": "GayWave.sadGay"
     },
-    "morgenstern-uff-dengiright-version-gachi-remix-gachibass.mp3": {
+    {
+      "filename": "morgenstern-uff-dengiright-version-gachi-remix-gachibass.mp3",
       "name": "Morgenshtern - уфф, деньги",
       "wave": "GayWave.sadGay"
     },
-    "nurminskii-drug-right-version-gachi-remix.mp3": {
+    {
+      "filename": "nurminskii-drug-right-version-gachi-remix.mp3",
       "name": "Нурминский - друг",
       "wave": "GayWave.sadGay"
     },
-    "nurminskii-dyadya-billi-gachi-remix-right-version.mp3": {
+    {
+      "filename": "nurminskii-dyadya-billi-gachi-remix-right-version.mp3",
       "name": "Нурминский - дядя Билли",
       "wave": "GayWave.sadGay"
     },
-    "picca-oruzieright-version-gachi-remix.mp3": {
+    {
+      "filename": "picca-oruzieright-version-gachi-remix.mp3",
       "name": "Пицца - оружие",
       "wave": "GayWave.sadGay"
     },
-    "prpaganda-melm.mp3": {
+    {
+      "filename": "prpaganda-melm.mp3",
       "name": "Пропаганда - мелом",
       "wave": "GayWave.sadGay"
     },
-    "ruki-vverx-on-tebya-celuet-right-version.mp3": {
+    {
+      "filename": "ruki-vverx-on-tebya-celuet-right-version.mp3",
       "name": "Руки вверх - он тебя целует",
       "wave": "GayWave.sadGay"
     },
-    "sektor-assa-liricum-tredcat-gachi-remix.mp3": {
+    {
+      "filename": "sektor-assa-liricum-tredcat-gachi-remix.mp3",
       "name": "Сектор газа - лирика",
       "wave": "GayWave.sadGay"
     },
-    "the-vepri-bekap-right-version-gachi-remix.mp3": {
+    {
+      "filename": "the-vepri-bekap-right-version-gachi-remix.mp3",
       "name": "The Вепри - бекап",
       "wave": "GayWave.sadGay"
     },
-    "tik-tok-kuda-neset-dym-right-version-fallfrog-gachi-remix.mp3": {
+    {
+      "filename": "tik-tok-kuda-neset-dym-right-version-fallfrog-gachi-remix.mp3",
       "name": "Cvetocek7 - куда несет дым",
       "wave": "GayWave.sadGay"
     },
-    "ty-tak-krasiva-right-versiongachi-remix.mp3": {
+    {
+      "filename": "ty-tak-krasiva-right-versiongachi-remix.mp3",
       "name": "Quest Pistols - ты так красива",
       "wave": "GayWave.sadGay"
     },
-    "valentin-strykalo-mama-ya-geivsyo-reseno-right-version.mp3": {
+    {
+      "filename": "valentin-strykalo-mama-ya-geivsyo-reseno-right-version.mp3",
       "name": "Валентин Стрыкало - мама я гей",
       "wave": "GayWave.sadGay"
     },
-    "valentin-strykalo-nas-dungeon-mastergachi-remix-gachibass.mp3": {
+    {
+      "filename": "valentin-strykalo-nas-dungeon-mastergachi-remix-gachibass.mp3",
       "name": "Валентин Стрыкало - наше лето",
       "wave": "GayWave.sadGay"
     },
-    "via-gra-popytka-5-right-version-g-man.mp3": {
+    {
+      "filename": "via-gra-popytka-5-right-version-g-man.mp3",
       "name": "Виа-Гра - попытка номер 5",
       "wave": "GayWave.sadGay"
     },
-    "wiz-khalifa-ft-charlie-puth-see-you-again-rightversion.mp3": {
+    {
+      "filename": "wiz-khalifa-ft-charlie-puth-see-you-again-rightversion.mp3",
       "name": "Wiz Khalifa feat Charlie Puth - see you again",
       "wave": "GayWave.sadGay"
     },
-    "yurii-satunov-detstvoright-version-gachi-remix.mp3": {
+    {
+      "filename": "yurii-satunov-detstvoright-version-gachi-remix.mp3",
       "name": "Юрий Шатунов- детство",
       "wave": "GayWave.sadGay"
     },
-    "zippo-kuris-casto-right-version-fallfrog-gachi-remix.mp3": {
+    {
+      "filename": "zippo-kuris-casto-right-version-fallfrog-gachi-remix.mp3",
       "name": "Zippo - куришь часто",
       "wave": "GayWave.sadGay"
     },
-    "zuki-batareika-right-version-gachi-remix.mp3": {
+    {
+      "filename": "zuki-batareika-right-version-gachi-remix.mp3",
       "name": "Жуки - батарейка",
       "wave": "GayWave.sadGay"
     },
-    "4-pacana-ix-bylo-cetvero-right-version-gachi-remix.mp3": {
+    {
+      "filename": "4-pacana-ix-bylo-cetvero-right-version-gachi-remix.mp3",
       "name": "Пятый регион - четыре пацана",
       "wave": "GayWave.sadGay"
     },
-    "basta-medlyacokgachibass-right-version.mp3": {
+    {
+      "filename": "basta-medlyacokgachibass-right-version.mp3",
       "name": "Баста - медлячок",
       "wave": "GayWave.sadGay"
     },
-    "55x55-kak-pukat-nezametnoright-version-gachi-remix.mp3": {
+    {
+      "filename": "55x55-kak-pukat-nezametnoright-version-gachi-remix.mp3",
       "name": "55Х55 - как пукать незаметно",
       "wave": "GayWave.gay"
     },
-    "55x55-tupoe-gright-version-gachi-remix.mp3": {
+    {
+      "filename": "55x55-tupoe-gright-version-gachi-remix.mp3",
       "name": "55Х55 - тупое г...",
       "wave": "GayWave.gay"
     },
-    "aleksandr-pistoletov-nas-samolet-right-version.mp3": {
+    {
+      "filename": "aleksandr-pistoletov-nas-samolet-right-version.mp3",
       "name": "Александр Пистолетов - наш самолет",
       "wave": "GayWave.gay"
     },
-    "anacondaz-mama-ya-lyublyu-right-version-gachi-remix-gachibass.mp3": {
+    {
+      "filename": "anacondaz-mama-ya-lyublyu-right-version-gachi-remix-gachibass.mp3",
       "name": "Anacondaz - мама я люблю",
       "wave": "GayWave.gay"
     },
-    "artur-pirozkov-zacepila-right-version-gachi-remix.mp3": {
+    {
+      "filename": "artur-pirozkov-zacepila-right-version-gachi-remix.mp3",
       "name": "Артур Пирожков - зацепила",
       "wave": "GayWave.gay"
     },
-    "brb-obnyal-pripodnyal-right-version-g-man.mp3": {
+    {
+      "filename": "brb-obnyal-pripodnyal-right-version-g-man.mp3",
       "name": "BRB - обнял-приподнял",
       "wave": "GayWave.gay"
     },
-    "butyrka-sarik-right-version.mp3": {
+    {
+      "filename": "butyrka-sarik-right-version.mp3",
       "name": "Бутырка - шарик",
       "wave": "GayWave.gay"
     },
-    "dbrta.mp3": {
+    {
+      "filename": "dbrta.mp3",
       "name": "Барбарики - доброта",
       "wave": "GayWave.gay"
     },
-    "dj-misha-fiksiki-tydyshh-right-version-gachi-remix-perezaliv.mp3": {
+    {
+      "filename": "dj-misha-fiksiki-tydyshh-right-version-gachi-remix-perezaliv.mp3",
       "name": "Фиксики - тыдыщь",
       "wave": "GayWave.gay"
     },
-    "dlb-gacibass-right-version-gachi-remix.mp3": {
+    {
+      "filename": "dlb-gacibass-right-version-gachi-remix.mp3",
       "name": "dlb. - гачибасс",
       "wave": "GayWave.gay"
     },
-    "ebanko-gady-right-version-gachi-remix.mp3": {
+    {
+      "filename": "ebanko-gady-right-version-gachi-remix.mp3",
       "name": "Ебанько - гады",
       "wave": "GayWave.gay"
     },
-    "ebanko-landysi-right-version-gachi-remix.mp3": {
+    {
+      "filename": "ebanko-landysi-right-version-gachi-remix.mp3",
       "name": "Ебанько - ландыши",
       "wave": "GayWave.gay"
     },
-    "ebanko-roma-ft-bruh-master-gachisound-right-version-gachi-remix.mp3": {
+    {
+      "filename": "ebanko-roma-ft-bruh-master-gachisound-right-version-gachi-remix.mp3",
       "name": "Ебанько - Рома",
       "wave": "GayWave.gay"
     },
-    "enjoykin-bratiska-right-version-gachi-remix-by-dan-varkholme-gachi.mp3": {
+    {
+      "filename": "enjoykin-bratiska-right-version-gachi-remix-by-dan-varkholme-gachi.mp3",
       "name": "Enjoykin - братишка",
       "wave": "GayWave.gay"
     },
-    "femlove-1000-7-right-version-gachi-remix.mp3": {
+    {
+      "filename": "femlove-1000-7-right-version-gachi-remix.mp3",
       "name": "fem.love - 1000-7",
       "wave": "GayWave.gay"
     },
-    "gorillaz-feel-good-inc-gachi-mix-right-version.mp3": {
+    {
+      "filename": "gorillaz-feel-good-inc-gachi-mix-right-version.mp3",
       "name": "Gorillaz - feel good inc.",
       "wave": "GayWave.gay"
     },
-    "gubki-bantikom-kristina-orbakaite-right-version-or-else-gachi-remix.mp3": {
+    {
+      "filename": "gubki-bantikom-kristina-orbakaite-right-version-or-else-gachi-remix.mp3",
       "name": "Кристина Орбакайте - губки бантиком",
       "wave": "GayWave.gay"
     },
-    "kraski-ya-lyublyu-tebya-sergei-right-version-gachi-remix.mp3": {
+    {
+      "filename": "kraski-ya-lyublyu-tebya-sergei-right-version-gachi-remix.mp3",
       "name": "Краски - я люблю тебя, Сергей",
       "wave": "GayWave.gay"
     },
-    "maddymurk-texnocastuski-right-version.mp3": {
+    {
+      "filename": "maddymurk-texnocastuski-right-version.mp3",
       "name": "Maddy Murk - техночастушки",
       "wave": "GayWave.gay"
     },
-    "morgenshtern-dulo-right-version-gachi-mix.mp3": {
+    {
+      "filename": "morgenshtern-dulo-right-version-gachi-mix.mp3",
       "name": "Morgenshtern - дуло",
       "wave": "GayWave.gay"
     },
-    "niletto-lyubimkaright-version.mp3": {
+    {
+      "filename": "niletto-lyubimkaright-version.mp3",
       "name": "Niletto - любимка",
       "wave": "GayWave.gay"
     },
-    "nurminskii-valim-right-version-gachi-remix.mp3": {
+    {
+      "filename": "nurminskii-valim-right-version-gachi-remix.mp3",
       "name": "Нурминский - валим",
       "wave": "GayWave.gay"
     },
-    "olga-buzova-skuka-vesna-right-version-gachi-remix-by-wdsc.mp3": {
+    {
+      "filename": "olga-buzova-skuka-vesna-right-version-gachi-remix-by-wdsc.mp3",
       "name": "Ольга Бузова - сука весна",
       "wave": "GayWave.gay"
     },
-    "o-zone-numa-numa-yeright-version-gachi-remix-gachi-show.mp3": {
+    {
+      "filename": "o-zone-numa-numa-yeright-version-gachi-remix-gachi-show.mp3",
       "name": "O-Zone - numa-numa",
       "wave": "GayWave.gay"
     },
-    "perezaliv-basshunter-dota-gachi-remix.mp3": {
+    {
+      "filename": "perezaliv-basshunter-dota-gachi-remix.mp3",
       "name": "Basshunter - dota",
       "wave": "GayWave.gay"
     },
-    "shadowraze-showdownright-version-gachi-remix.mp3": {
+    {
+      "filename": "shadowraze-showdownright-version-gachi-remix.mp3",
       "name": "Shadowraze - showdown",
       "wave": "GayWave.gay"
     },
-    "shtern-morgenshtern-hummerright-version-gachi-remix.mp3": {
+    {
+      "filename": "shtern-morgenshtern-hummerright-version-gachi-remix.mp3",
       "name": "Shtern, Morgenshtern - hummer",
       "wave": "GayWave.gay"
     },
-    "skillet-awake-and-aliveright-versiongachi-remix.mp3": {
+    {
+      "filename": "skillet-awake-and-aliveright-versiongachi-remix.mp3",
       "name": "Skillet - awake and alive",
       "wave": "GayWave.gay"
     },
-    "slava-marlow-ty-goris-kak-ogon-obeme-gachi-mashup.mp3": {
+    {
+      "filename": "slava-marlow-ty-goris-kak-ogon-obeme-gachi-mashup.mp3",
       "name": "Slava Marlow - ты горишь как огонь",
       "wave": "GayWave.gay"
     },
-    "sultan-uragan-na-diskoteku-gachi-remix-right-version.mp3": {
+    {
+      "filename": "sultan-uragan-na-diskoteku-gachi-remix-right-version.mp3",
       "name": "Султан Ураган - на дискотеку",
       "wave": "GayWave.gay"
     },
-    "sveta-a-mozet-da-right-version.mp3": {
+    {
+      "filename": "sveta-a-mozet-da-right-version.mp3",
       "name": "Света - а может да",
       "wave": "GayWave.gay"
     },
-    "timati-baklazan-right-version-gachi-remix.mp3": {
+    {
+      "filename": "timati-baklazan-right-version-gachi-remix.mp3",
       "name": "Тимати - баклажан",
       "wave": "GayWave.gay"
     },
-    "trofim-gorod-soci-gachi-remix-right-version.mp3": {
+    {
+      "filename": "trofim-gorod-soci-gachi-remix-right-version.mp3",
       "name": "Трофим - город Сочи",
       "wave": "GayWave.gay"
     },
-    "verka-serdyucka-gulyanocka-right-version-g-man.mp3": {
+    {
+      "filename": "verka-serdyucka-gulyanocka-right-version-g-man.mp3",
       "name": "Верка Сердючка - гуляночка",
       "wave": "GayWave.gay"
     },
-    "ya-kak-dungeon-master-tomas.mp3": {
+    {
+      "filename": "ya-kak-dungeon-master-tomas.mp3",
       "name": "Alley Gang - паравозик Томас",
       "wave": "GayWave.gay"
     },
-    "ya-kogda-nibud-uidu-feel-good-inc-by-checkoff.mp3": {
+    {
+      "filename": "ya-kogda-nibud-uidu-feel-good-inc-by-checkoff.mp3",
       "name": "Morgenshtern - я когда нибудь уйду",
       "wave": "GayWave.gay"
     },
-    "55x55-eto-navalnyi-right-version-gachi-remix.mp3": {
+    {
+      "filename": "55x55-eto-navalnyi-right-version-gachi-remix.mp3",
       "name": "55Х55 - это Навальный",
       "wave": "GayWave.gay"
     },
-    "cumbusters.mp3": {
+    {
+      "filename": "cumbusters.mp3",
       "name": "Ghostbusters - main theme",
       "wave": "GayWave.trueGay"
     },
-    "dima-bilan-molniya-right-version-gachi-remix.mp3": {
+    {
+      "filename": "dima-bilan-molniya-right-version-gachi-remix.mp3",
       "name": "Дима Билан - молния",
       "wave": "GayWave.trueGay"
     },
-    "eiffel-65-blue-da-ba-dee-right-version-gachi-remix.mp3": {
+    {
+      "filename": "eiffel-65-blue-da-ba-dee-right-version-gachi-remix.mp3",
       "name": "Eiffel 65 - blue",
       "wave": "GayWave.trueGay"
     },
-    "irina-allegrova-mladsii-leatherman-tredcat-gachi-remix-mladsii-leitenant.mp3": {
+    {
+      "filename": "irina-allegrova-mladsii-leatherman-tredcat-gachi-remix-mladsii-leitenant.mp3",
       "name": "Ирина Аллегрова - младший лейтенант",
       "wave": "GayWave.trueGay"
     },
-    "klava-koka-baby-right-version-gachi-remix.mp3": {
+    {
+      "filename": "klava-koka-baby-right-version-gachi-remix.mp3",
       "name": "Клава Кока - бабы",
       "wave": "GayWave.trueGay"
     },
-    "klava-koka-hensy-kostyorright-version-gachi-remix.mp3": {
+    {
+      "filename": "klava-koka-hensy-kostyorright-version-gachi-remix.mp3",
       "name": "Клава Кока, Hensy - костёр",
       "wave": "GayWave.trueGay"
     },
-    "klava-koka-pokinula-cat-right-version-russian-slaves-remix.mp3": {
+    {
+      "filename": "klava-koka-pokinula-cat-right-version-russian-slaves-remix.mp3",
       "name": "Клава Кока - покинула чат",
       "wave": "GayWave.trueGay"
     },
-    "klava-koka-ruki-vverx-nokautright-version-gachi-remix.mp3": {
+    {
+      "filename": "klava-koka-ruki-vverx-nokautright-version-gachi-remix.mp3",
       "name": "Клава Кока, Руки Вверх - нокаут",
       "wave": "GayWave.trueGay"
     },
-    "klava-koka-ximiyaright-version-gachi-remix-gachibass.mp3": {
+    {
+      "filename": "klava-koka-ximiyaright-version-gachi-remix-gachibass.mp3",
       "name": "Клава Кока - химия",
       "wave": "GayWave.trueGay"
     },
-    "maks-korz-zit-v-kaif-right-version-gachi-remix-gachibass.mp3": {
+    {
+      "filename": "maks-korz-zit-v-kaif-right-version-gachi-remix-gachibass.mp3",
       "name": "Макс Корж - жить в кайф",
       "wave": "GayWave.trueGay"
     },
-    "mc-pox-vesennii-les-right-version-gachi-remix.mp3": {
+    {
+      "filename": "mc-pox-vesennii-les-right-version-gachi-remix.mp3",
       "name": "МС Пох - весенний лес",
       "wave": "GayWave.trueGay"
     },
-    "meibi-beibi-dora-barbisaiz-right-version-gachi-remix.mp3": {
+    {
+      "filename": "meibi-beibi-dora-barbisaiz-right-version-gachi-remix.mp3",
       "name": "Мейби Бейби, Дора - барбисайз",
       "wave": "GayWave.trueGay"
     },
-    "mia-boyka-begu-po-tropinke-right-version-gachi-remix.mp3": {
+    {
+      "filename": "mia-boyka-begu-po-tropinke-right-version-gachi-remix.mp3",
       "name": "Мия Бойка - бегу по тропинке",
       "wave": "GayWave.trueGay"
     },
-    "monetocka-padat-v-cum-tredcat-gachi-remix-padat-v-gryaz.mp3": {
+    {
+      "filename": "monetocka-padat-v-cum-tredcat-gachi-remix-padat-v-gryaz.mp3",
       "name": "Монеточка - падать в грязь",
       "wave": "GayWave.trueGay"
     },
-    "ms-pox-banka-parilka-right-version-gachi-remix.mp3": {
+    {
+      "filename": "ms-pox-banka-parilka-right-version-gachi-remix.mp3",
       "name": "МС Пох - банька парилка",
       "wave": "GayWave.trueGay"
     },
-    "niletto-ft-klava-koka-krasright-version-gachi-remix.mp3": {
+    {
+      "filename": "niletto-ft-klava-koka-krasright-version-gachi-remix.mp3",
       "name": "Niletto, Клава Кока - краш",
       "wave": "GayWave.trueGay"
     },
-    "perezaliv-aqua-barbie-girl-right-version.mp3": {
+    {
+      "filename": "perezaliv-aqua-barbie-girl-right-version.mp3",
       "name": "Aqua - barbie girl",
       "wave": "GayWave.trueGay"
     },
-    "perezaliv-danzel-you-spin-me-round-right-version.mp3": {
+    {
+      "filename": "perezaliv-danzel-you-spin-me-round-right-version.mp3",
       "name": "Danzel - you spin me round",
       "wave": "GayWave.trueGay"
     },
-    "perezaliv-dead-blonde-malcik-na-devyatke-right-version.mp3": {
+    {
+      "filename": "perezaliv-dead-blonde-malcik-na-devyatke-right-version.mp3",
       "name": "Dead Blonde - мальчик на девятке",
       "wave": "GayWave.trueGay"
     },
-    "perezaliv-modern-talking-brother-louie-right-version.mp3": {
+    {
+      "filename": "perezaliv-modern-talking-brother-louie-right-version.mp3",
       "name": "Modern Talking - brother Louie",
       "wave": "GayWave.trueGay"
     },
-    "rammstein-du-hast-gachi-mix-right-version.mp3": {
+    {
+      "filename": "rammstein-du-hast-gachi-mix-right-version.mp3",
       "name": "Rammstein - du hast",
       "wave": "GayWave.trueGay"
     },
-    "raz-raz-raz-eto-xardbass-right-version-gachi-remix.mp3": {
+    {
+      "filename": "raz-raz-raz-eto-xardbass-right-version-gachi-remix.mp3",
       "name": "Russian hardbass",
       "wave": "GayWave.trueGay"
     },
-    "slava-marlowcamry-35-v-stile-gaci.mp3": {
+    {
+      "filename": "slava-marlowcamry-35-v-stile-gaci.mp3",
       "name": "Slava Marlow - camry 3.5",
       "wave": "GayWave.trueGay"
     },
-    "tatu-nas-ne-dogonyat-gachi-remix.mp3": {
+    {
+      "filename": "tatu-nas-ne-dogonyat-gachi-remix.mp3",
       "name": "taTu - нас не догонят",
       "wave": "GayWave.trueGay"
     },
-    "the-vepri-kacevo-serdce-right-version-gachi-remix.mp3": {
+    {
+      "filename": "the-vepri-kacevo-serdce-right-version-gachi-remix.mp3",
       "name": "The Вепри - кацево сердце",
       "wave": "GayWave.trueGay"
     },
-    "the-vepri-konsyumerizm-right-version-gachi-remix.mp3": {
+    {
+      "filename": "the-vepri-konsyumerizm-right-version-gachi-remix.mp3",
       "name": "The Вепри - консьюмеризм",
       "wave": "GayWave.trueGay"
     },
-    "the-vepri-polnyi-kurs-social-darvinizma-right-version-gachi-remix.mp3": {
+    {
+      "filename": "the-vepri-polnyi-kurs-social-darvinizma-right-version-gachi-remix.mp3",
       "name": "The Вепри - полный курс социал-дарвинизма",
       "wave": "GayWave.trueGay"
     },
-    "turbomoda-kanikuly-right-version-gachi-remix.mp3": {
+    {
+      "filename": "turbomoda-kanikuly-right-version-gachi-remix.mp3",
       "name": "Турбомода - каникулы",
       "wave": "GayWave.trueGay"
     },
-    "vinks-right-version-gachi-remix-zastavka-iz-vinks.mp3": {
+    {
+      "filename": "vinks-right-version-gachi-remix-zastavka-iz-vinks.mp3",
       "name": "Винкс - main theme",
       "wave": "GayWave.trueGay"
     },
-    "vot-i-pomer-ded-maksim-right-version-gachi-remix.mp3": {
+    {
+      "filename": "vot-i-pomer-ded-maksim-right-version-gachi-remix.mp3",
       "name": "Вот и помер дед Максим",
       "wave": "GayWave.trueGay"
     },
-    "yunost-v-sapogax-gachi-version-gacimuci-remiks.mp3": {
+    {
+      "filename": "yunost-v-sapogax-gachi-version-gacimuci-remiks.mp3",
       "name": "Солдаты - юность в сапогах",
       "wave": "GayWave.trueGay"
     },
-    "zestokii-dungeon-master-evangelion-opening-right-version-evangelion-opening-gachi.mp3": {
+    {
+      "filename": "zestokii-dungeon-master-evangelion-opening-right-version-evangelion-opening-gachi.mp3",
       "name": "Evangelion - opening",
       "wave": "GayWave.trueGay"
     },
-    "a4-kids-right-version-gachi-remix.mp3": {
+    {
+      "filename": "a4-kids-right-version-gachi-remix.mp3",
       "name": "A4- kids",
       "wave": "GayWave.trueGay"
     },
-    "cmh-x-gspd-sessiya-right-versiongachi-remix.mp3": {
+    {
+      "filename": "cmh-x-gspd-sessiya-right-versiongachi-remix.mp3",
       "name": "cmh.x, GSPD - сессия",
       "wave": "GayWave.trueGay"
     },
-    "louis-armstrong-what-a-wonderful-world-right-version.mp3": {
+    {
+      "filename": "louis-armstrong-what-a-wonderful-world-right-version.mp3",
       "name": "Louis Armstrong - what a wonderful world",
       "wave": "GayWave.gay"
     },
-    "platters-feat-boynextdoor-sixteen-slaves.mp3": {
+    {
+      "filename": "platters-feat-boynextdoor-sixteen-slaves.mp3",
       "name": "The Platters - Sixteen Tons",
       "wave": "GayWave.gay"
     }
-  },
+  ],
   "ads": [
     "88005553535-right-version-feat-tacoguy.mp3",
     "audioreklama-vk-right-version.mp3",
