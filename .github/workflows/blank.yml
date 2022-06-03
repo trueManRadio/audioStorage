@@ -21,6 +21,4 @@ jobs:
         destination_repo: 'trueManRadio/gayWebsite'
         destination_folder: 'assets'
         destination_branch: 'master'
-        user_email: 'teledurak@gmail.com'
-        user_name: 'tdrkDev'
         commit_message: '[Actions] Updated tracklist from audioStorage@${GITHUB_SHA}'
