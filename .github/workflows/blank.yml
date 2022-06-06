@@ -1,0 +1,24 @@
+# This is a basic workflow to help you get started with Actions
+name: Update tracklist
+
+# Controls when the workflow will run
+on: push
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Push tracklist to website sources
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'tracklist.json'
+        destination_repo: 'trueManRadio/gayWebsite'
+        destination_folder: 'assets'
+        destination_branch: 'master'
+        commit_message: '[Actions] Updated tracklist from audioStorage@${GITHUB_SHA}'
